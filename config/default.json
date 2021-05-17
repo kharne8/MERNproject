@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://marco123:1234@mernproj.2gsjc.mongodb.net/Mernproj?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://marco123:1234@mernproj.2gsjc.mongodb.net/Mernproj?retryWrites=true&w=majority",
+  "jwtSecret": "secrettoken"
 }
