@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://marco123:1234@mernproj.2gsjc.mongodb.net/Mernproj?retryWrites=true&w=majority",
-  "jwtSecret": "secrettoken"
+  "jwtSecret": "secrettoken",
+  "githubClientId": "5d636f068e5e6a3ff6d2",
+  "githubSecret": "5eb853909fa53a261e99c0d5b6eaeb8bf7cc4bcc"
 }
